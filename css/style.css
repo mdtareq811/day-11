@@ -1,0 +1,10 @@
+.carousel-item-padding{
+    padding: 100px 250px;
+}
+.add-section{
+    background-color: #0b2e13;
+    /*color: white;*/
+    background: url("../images/bhutan_parliament.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
